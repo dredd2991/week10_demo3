@@ -1,0 +1,4 @@
+<!--This is the localized strings file-->
+<resources>
+    <string name="app_name">HelloAndroid</string>
+</resources>
