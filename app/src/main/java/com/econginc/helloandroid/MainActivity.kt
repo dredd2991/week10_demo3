@@ -3,7 +3,7 @@ package com.econginc.helloandroid
 
 import android.app.Activity
 import android.os.Bundle
-//This is the first activity loaded by my app MainActivity
+//This is the first activity loaded by my app MainActivity11
 class MainActivity : Activity() {
 
 //This is the first function that is run by any activity
